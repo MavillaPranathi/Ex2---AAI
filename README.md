@@ -1,7 +1,7 @@
-<H3>Enter Name : Abrin Nisha A</H3>
-<H3>Enter Register No : 212222230005</H3>
+<H3>Enter Name : M.Pranathi</H3>
+<H3>Enter Register No : 212222240064</H3>
 <H3>Experiment 2</H3>
-<H3>Date : 02-09-2024</H3>
+<H3>Date : 03-09-2024</H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
 
 ## Aim :
